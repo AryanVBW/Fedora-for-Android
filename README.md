@@ -13,12 +13,7 @@ simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) 
 
 - **Modern Experience:** Experience the latest and greatest software for a modern Android Linux environment.
 
-## 🚀 Getting Started:
-
-1. Clone this repository to your Android device.
-2. Navigate to the FedoraFreedom directory.
-3. Follow the installation instructions in the README file.
-4. Embrace the freedom of Fedora on your Android!
+## 🚀 Embrace the freedom of Fedora on your Android!
 
 ## 🤝 Contribution and Support:
 
